@@ -1,6 +1,6 @@
 
 
-def pouring(capacities, bottles, from_id, to_id,):
+def pouring(capacities, bottles, from_id, to_id):
 
     for index in range(0, len(to_id)):
         f = from_id[index]
